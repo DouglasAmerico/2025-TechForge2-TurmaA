@@ -1,0 +1,1 @@
+# 2025-TechForge2-TurmaA
