@@ -1,5 +1,4 @@
 const prompt = require("prompt-sync")();
-
 function recepcaoDeDados(nomeAluno){
     let aluno = {
         nome : undefined,
@@ -13,9 +12,7 @@ function recepcaoDeDados(nomeAluno){
 
     return aluno;
 }
-
 let sala = [];
-
 sala.push(recepcaoDeDados("Douglas"));
 sala.push(recepcaoDeDados("Murilo"));
 console.log(sala);
